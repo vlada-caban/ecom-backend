@@ -22,7 +22,7 @@ To install necessary dependencies, run the following command:
 
 User is able to View, Create, Update and Delete Product, Categories and Tags for ecommerce database.
 
-Link to the walkthrough video: [follow the link]()
+Link to the walkthrough video: [follow the link](https://drive.google.com/file/d/1kRu_lb5LhFqvDiOW0quPbSzomIvVELF2/view?usp=sharing)
 
 Example output: 
 
